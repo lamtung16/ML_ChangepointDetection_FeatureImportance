@@ -1,2 +1,2 @@
 # ChangepointDetection FeatureImportance
-![Feature Importance](figs\random_forest.png)
+![Feature Importance](figs/random_forest.png)
