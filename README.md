@@ -6,6 +6,20 @@
    - For each feature, the total reduction in impurity across all nodes in all trees that the feature was used to split is calculated.
    - The feature importance scores are then normalized, so they sum up to 1. This is done by dividing each feature’s importance by the sum of all features’ importances.
    - The idea is that a feature that reduces the impurity the most is considered more important.
+![Feature Importance](figs/random_forest_ATAC_JV_adipose.png)
+![Feature Importance](figs/random_forest_CTCF_TDH_ENCODE.png)
 ![Feature Importance](figs/random_forest_detailed.png)
+![Feature Importance](figs/random_forest_H3K27ac-H3K4me3_TDHAM_BP.png)
+![Feature Importance](figs/random_forest_H3K27ac_TDH_some.png)
+![Feature Importance](figs/random_forest_H3K27me3_RL_cancer.png)
+![Feature Importance](figs/random_forest_H3K27me3_TDH_some.png)
+![Feature Importance](figs/random_forest_H3K36me3_AM_immune.png)
+![Feature Importance](figs/random_forest_H3K36me3_TDH_ENCODE.png)
+![Feature Importance](figs/random_forest_H3K36me3_TDH_immune.png)
+![Feature Importance](figs/random_forest_H3K36me3_TDH_other.png)
+![Feature Importance](figs/random_forest_H3K4me1_TDH_BP.png)
+![Feature Importance](figs/random_forest_H3K4me3_PGP_immune.png)
+![Feature Importance](figs/random_forest_H3K4me3_TDH_ENCODE.png)
+![Feature Importance](figs/random_forest_H3K4me3_XJ_immune.png)
+![Feature Importance](figs/random_forest_H3K9me3_TDH_BP.png)
 ![Feature Importance](figs/random_forest_systematic.png)
-![Feature Importance](figs/random_forest_epigenomic.png)
